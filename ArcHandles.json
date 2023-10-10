@@ -1,0 +1,4 @@
+{
+  "Inherit":["PartArdornment","GuiBase3d","Instance"],
+  "Properties":["Axes"]
+}
