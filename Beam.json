@@ -1,0 +1,4 @@
+{
+  "Inherit":["Instance"],
+  "Properties":["Attachment0","Attachment1","Brightness","Color","CurveSize0","CurveSize1","Enabled","FaceCamera","LightEmission","LightInfluence","Segments","Texture","TextureLength","TextureMode","TextureSpeed","Transparency","Width0","Width1","ZOffset"]
+}
