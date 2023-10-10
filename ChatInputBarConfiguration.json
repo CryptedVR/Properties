@@ -1,0 +1,4 @@
+{
+  "Inherit":["Instance"],
+  "Properties":["AutocompleteEnabled","BackgroundColor3","BackgroundTransparency","Enabled","FontFace","KeyboardKeyCode","PlaceholderColor3","TargetTextChannel","TextBox","TextColor3","TextSize","TextStrokeColor3","TextStrokeTransparency"]
+}
