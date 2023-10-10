@@ -1,0 +1,4 @@
+{
+  "Inherit":["Constraint","Instance"],
+  "Properties":["LimitsEnabled","MaxFrictionTorque","Radius","Restitution","TwistLimitsEnabled","TwistLowerAngle","TwistUpperAngle","UpperAngle"]
+}
