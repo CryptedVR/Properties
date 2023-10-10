@@ -1,0 +1,4 @@
+{
+  "Inherit":["Instance"],
+  "Properties":["C0","C1","Enabled","Part0","Part1"]
+}
