@@ -1,0 +1,4 @@
+{
+  "Inherit":["JointInstance","Instance"],
+  "Properties":["CurrentAngle","DesiredAngle","MaxVelocity"]
+}
