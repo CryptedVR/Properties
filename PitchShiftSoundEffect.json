@@ -1,0 +1,4 @@
+{
+  "Inherit":["SoundEffect","Instance"],
+  "Properties":["Octave"]
+}
