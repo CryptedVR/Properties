@@ -1,0 +1,4 @@
+{
+  "Inherit":["Instance"],
+  "Properties":["Color","Decay","Density","Glare","Haze","Offset"]
+}
