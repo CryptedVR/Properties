@@ -1,0 +1,4 @@
+{
+  "Inherit":["Instance"],
+  "Properties":["Attack","MakeupGain","Ratio","Release","Threshold"]
+}
