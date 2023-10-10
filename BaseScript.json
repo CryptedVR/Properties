@@ -1,0 +1,4 @@
+{
+  "Inherit":["LuaSourceContainer","Instance"],
+  "Properties":["Disabled","Enabled","LinkedSource","RunContext"]
+}
