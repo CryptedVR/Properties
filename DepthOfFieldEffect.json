@@ -1,0 +1,4 @@
+{
+  "Inherit":["PostEffect","Instance"],
+  "Properties":["FarIntensity","FocusDistance","InFocusRadius","NearIntensity"]
+}
