@@ -1,4 +1,4 @@
 {
-  "Inherit":["Instance"],
+  "Inherit":[],
   "Properties":["Archivable","Name","Parent"]
 }
