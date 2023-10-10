@@ -1,0 +1,4 @@
+{
+  "Inherit":["Instance"],
+  "Properties":["DecayRatio","DecayTime","Density","Diffusion","DryLevel","EarlyDelayTime","HighCutFrequency","LateDelayTime","LowShelftFrequency","LowShelfGain","ReferenceFrequency","WetLevel"]
+}
