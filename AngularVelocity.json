@@ -1,0 +1,4 @@
+{
+  "Inherit":["Constraint","Instance"],
+  "Properties":["AngularVelocity","MaxTorque","ReactionTorqueEnabled","RelativeTo"]
+}
