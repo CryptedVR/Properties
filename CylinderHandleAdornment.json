@@ -1,0 +1,4 @@
+{
+  "Inherit":["HandleAdornment","PVAdornment","GuiBase3d","Instance"],
+  "Properties":["Angle","Height","InnerRadius","Radius"]
+}
