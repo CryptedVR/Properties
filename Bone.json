@@ -1,0 +1,4 @@
+{
+  "Inherit":["Attachment","Instance"],
+  "Properties":["Transform"]
+}
