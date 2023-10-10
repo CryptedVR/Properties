@@ -1,0 +1,4 @@
+{
+  "Inherit":["Instance"],
+  "Properties":["Ambient","Brightness","ClockTime","ColorShift_Bottom","ColorShift_Top","EnvironmentDiffuseScale","EnvironmentSpecularScale","ExposureCompensation","FogColor","FogEnd","FogStart","GeographicLatitude","GlobalShadows","OutdoorAmbient","ShadowSoftness","TimeOfDay"]
+}
