@@ -1,0 +1,4 @@
+{
+  "Inherit":["Script","BaseScript","LuaSourceContainer","Instance"],
+  "Properties":[]
+}
