@@ -1,0 +1,4 @@
+{
+  "Inherit":["TriangleMeshPart","BasePart","PVInstance","Instance"],
+  "Properties":["DoubleSided","Meshid","RenderFidelity","TextureID"]
+}
