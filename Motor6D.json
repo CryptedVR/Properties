@@ -1,0 +1,4 @@
+{
+  "Inherit":["Motor","JointInstance","Instance"],
+  "Properties":["Transform"]
+}
