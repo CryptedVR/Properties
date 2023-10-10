@@ -1,0 +1,4 @@
+{
+  "Inherit":["FaceInstance","Instance"],
+  "Properties":["Color3","Texture","Transparency","ZIndex"]
+}
