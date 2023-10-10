@@ -1,0 +1,4 @@
+{
+  "Inherit":["Instance"],
+  "Properties":["DelayTime","DryLevel","Feedback","WetLevel"]
+}
