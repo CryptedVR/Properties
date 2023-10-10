@@ -1,0 +1,4 @@
+{
+  "Inherit":["Constraint","Instance"],
+  "Properties":["ActuatorType","AngularResponsiveness","AngularSpeed","AngularVelocity","LimitsEnabled","LowerAngle","MotorMaxAcceleration","MotorMaxTorque","Radius","Restitution","ServoMaxTorque","TargetAngle","UpperAngle"]
+}

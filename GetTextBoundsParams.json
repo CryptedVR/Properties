@@ -1,0 +1,4 @@
+{
+  "Inherit":["Instance"],
+  "Properties":["Font","Size","Text","Width"]
+}

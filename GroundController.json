@@ -1,0 +1,4 @@
+{
+  "Inherit":["ControllerBase","Instance"],
+  "Properties":["AccelerationLean","AccelerationTime","BalanceMaxTorque","BalanceSpeed","DecelerationTime","Friction","FrictionWeight","GroundOffset","StandForce","StandSpeed","TurnSpeedFactor"]
+}

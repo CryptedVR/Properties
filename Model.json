@@ -1,0 +1,4 @@
+{
+  "Inherit":["PVInstance","Instance"],
+  "Properties":["LevelOfDetail","ModelStreamingMode","PrimaryPart","WorldPivot"]
+}

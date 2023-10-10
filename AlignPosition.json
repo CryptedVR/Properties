@@ -1,0 +1,4 @@
+{
+  "Inherit":["Constraint","Instance"],
+  "Properties":["ApplyAtCenterOfMass","ForceLimitMode","ForceRelativeTo","MaxAxesForce","MaxForce","MaxVelocity","Mode","Position","ReactionForceEnabled","Responsiveness","RigidityEnabled"]
+}

@@ -1,0 +1,4 @@
+{
+  "Inherit":["GuiBase3d","Instance"],
+  "Properties":["Adornee"]
+}

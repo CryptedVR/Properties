@@ -1,0 +1,4 @@
+{
+  "Inherit":["GuiBase2d","Instance"],
+  "Properties":["Enabled","ResetOnSpawn","ZIndexBehavior"]
+}

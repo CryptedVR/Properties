@@ -1,0 +1,4 @@
+{
+  "Inherit":["PVAdornment","GuiBase3d","Instance"],
+  "Properties":["AdornCullingMode","AlwaysOnTop","CFrame","SizeRelativeOffset","ZIndex"]
+}

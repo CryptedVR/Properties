@@ -1,0 +1,4 @@
+{
+  "Inherit":["Instance"],
+  "Properties":["HeadColor3","LeftArmColor3","LeftLegColor3","RightArmColor3","RightLegColor3","TorsoColor3"]
+}

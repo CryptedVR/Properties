@@ -1,0 +1,4 @@
+{
+  "Inherit":["SoundEffect","Instance"],
+  "Properties":["Delay","DryLevel","Feedback","WetLevel"]
+}

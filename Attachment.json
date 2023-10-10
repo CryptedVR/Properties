@@ -1,0 +1,4 @@
+{
+  "Inherit":["Instance"],
+  "Properties":["Axis","CFrame","SecondaryAxis","Visible","WorldAxis","WorldCFrame","WorldSecondaryAxis"]
+}

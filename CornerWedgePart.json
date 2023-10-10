@@ -1,0 +1,4 @@
+{
+  "Inherit":["BasePart","PVInstance","Instance"],
+  "Properties":[]
+}

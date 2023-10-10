@@ -1,0 +1,4 @@
+{
+  "Inherit":["Instance"],
+  "Properties":["BackAccessory","BodyTypeScale","ClimbAnimation","DepthScale","Face","FaceAccessory","FallAnimation","FrontAccessory","GraphicTShirt","HairAccessory","HatAccessory","Head","HeadColor","HeadScale","HeightScale","IdleAnimation","JumpAnimation","LeftArm","LeftArmColor","LeftLeg","LeftLegColor","MoodAnimation","NeckAccessory","Pants","ProportionScale","RightArm","RightArmColor","RightLeg","RightLegColor","RunAnimation","Shirt","ShouldersAccessory","SwimAnimation","Torso","TorsoColor","WaistAccessory","WalkAnimation","WidthScale"]
+}

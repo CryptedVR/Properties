@@ -1,0 +1,4 @@
+{
+  "Inherit":["LayerCollector","GuiBase2d","Instance"],
+  "Properties":["Active","Adornee","AlwaysOnTop","Brightness","ClipsDescendants","DistanceLowerLimit","DistanceStep","DistanceUpperLimit","ExtentsOffset","ExtentsOffsetWorldSpace","LightInfluence","MaxDistance","PlayerToHideFrom","Size","SizeOffset","StudsOffset","StudsOffsetWorldSpace"]
+}

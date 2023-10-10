@@ -1,0 +1,4 @@
+{
+  "Inherit":["GuiBase2d","Instance"],
+  "Properties":["Active","AnchorPoint","AutomaticSize","BackgroundColor3","BackgroundTransparency","BorderColor3","BorderMode","BorderSizePixel","ClipsDescendants","Interactible","LayoutOrder","NextSelectionDown","NextSelectionLeft","NextSelectionRight","NextSelectionUp","Position","Rotation","Selectable","SelectionImageObject","SelectionOrder","Size","SizeConstraint","Transparency","Visible","ZIndex"]
+}

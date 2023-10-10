@@ -1,0 +1,4 @@
+{
+  "Inherit":["Instance"],
+  "Properties":["AutoJumpEnabled","AutoRotate","AutomaticScalingEnabled","BreakJointsOnDeath","CameraOffset","DisplayDistanceType","DisplayName","EvaluateStateMachine","Health","HealthDisplayDistance","HealthDisplayType","HipHeight","Jump","JumpHeight","JumpPower","MaxHealth","MaxSlopeAngle","NameDisplayDistance","NameOcclusion","PlatformStand","RequiresNeck","RigType","RootPart","SeatPart","Sit","TargetPoint","UseJumpPower","WalkSpeed","WalkToPart","WalkToPoint"]
+}

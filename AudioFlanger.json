@@ -1,0 +1,4 @@
+{
+  "Inherit":["Instance"],
+  "Properties":["Depth","Mix","Rate"]
+}

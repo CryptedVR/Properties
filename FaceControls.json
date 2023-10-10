@@ -1,0 +1,4 @@
+{
+  "Inherit":["Instance"],
+  "Properties":["ChinRaiser","ChinRaiserUpperLip","Corrugator","EyesLookDown","EyesLookLeft","EyeLookRight","EyesLookUp","FlatPucker","Funneler","JawDrop","JawLeft","JawRight","LeftBrowLowerer","LeftCheekPuff","LeftCheekRaiser","LeftDimpler","LeftEyeClosed","LeftEyeUpperLidRaiser","LeftInnerBrowRaiser","LeftLipCornerDown","LeftLipCornerPuller","LeftLipStretcher","LeftLowerLipDepressor","LeftNoseWrinkler","LeftOuterBrowRaiser","LeftUpperLipRaiser","LipPresser","LipsTogether","LowerLipSuck","MouthLeft","MouthRight","Pucker","RightBrowLowerer","RightCheekPuff","RightCheekRaiser","RightDimpler","RightEyeClosed","RightEyeUpperLidRaiser","RightInnerBrowRaiser","RightLipCornerDown","RightLipCornerPuller","RightLipStretcher","RightLowerLipDrepressor","RightNoseWrinkler","RightOuterBrowRaiser","RightUpperLipRaiser","TongueDown","TongueOut","TongueUp","UpperLipSuck"]
+}

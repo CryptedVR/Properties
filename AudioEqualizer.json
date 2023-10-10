@@ -1,0 +1,4 @@
+{
+  "Inherit":["Instance"],
+  "Properties":["HighGain","LowGain","MidGain","MidRange"]
+}

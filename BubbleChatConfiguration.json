@@ -1,0 +1,4 @@
+{
+  "Inherit":["Instance"],
+  "Properties":["AdorneeName","BackgroundColor3","BackgroundTransparency","BubbleDuration","BubblesSpacing","Enabled","Font","FontFace","LocalPlayerStudsOffset","MaxBubbles","MaxDistance","MinimizeDistance","TailVisible","TextColor3","TextSize","VerticalStudsOffset"]
+}

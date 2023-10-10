@@ -1,0 +1,4 @@
+{
+  "Inherit":["SoundEffect","Instance"],
+  "Properties":["Attack","GainMakeup","Ratio","Release","SideChain","Threshold"]
+}

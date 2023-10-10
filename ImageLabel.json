@@ -1,0 +1,4 @@
+{
+  "Inherit":["GuiObject","GuiBase2d","Instance"],
+  "Properties":["Image","ImageColor3","ImageRectOffset","ImageRectSize","ImageTransparency","ResampleMode","ScaleType","SliceCenter","SliceScale","TileSize"]
+}

@@ -1,0 +1,4 @@
+{
+  "Inherit":["PoseBase","Instance"],
+  "Properties":["Value"]
+}

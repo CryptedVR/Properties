@@ -1,0 +1,4 @@
+{
+  "Inherit":["GuiObject","GuiBase2d","Instance"],
+  "Properties":["GroupColor3","GroupTransparency"]
+}

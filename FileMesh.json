@@ -1,0 +1,4 @@
+{
+  "Inherit":["DataModelMesh","Instance"],
+  "Properties":["MeshId","TextureId"]
+}

@@ -1,0 +1,4 @@
+{
+  "Inherit":["Instance"],
+  "Properties":["HttpProxyEnabled","HttpProxyURL","IncomingReplicationLag","PrintJointSizeBreakdown","PrintPhysicsErrors","PrintStreamingInstanceQuota","RandomizeJoinInstanceOrder","RenderStreamedRegions","ShowActiveAnimationAsset"]
+}

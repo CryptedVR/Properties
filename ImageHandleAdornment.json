@@ -1,0 +1,4 @@
+{
+  "Inherit":["HandleAdornment","PVAdornment","GuiBase3d","Instance"],
+  "Properties":["Image","Size"]
+}

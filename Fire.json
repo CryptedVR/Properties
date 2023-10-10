@@ -1,0 +1,4 @@
+{
+  "Inherit":["Instance"],
+  "Properties":["Color","Enabled","Heat","SecondaryColor","Size","TimeScale"]
+}

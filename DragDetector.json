@@ -1,0 +1,4 @@
+{
+  "Inherit":["ClickDetector","Instance"],
+  "Properties":["ActivatedCursorIcon","ApplyAtCenterOfMass","Axis","DragFrame","DragStyle","Enabled","GamepadModeSwitchKeyCode","KeyboardModeSwitchKeyCode","MaxDragAngle","MaxDragTranslation","MaxForce","MaxTorque","MinDragAngle","MinDragTranslation","Orientation","ReferenceInstance","ResponseStyle","Responsiveness","RunLocally","SecondaryAxis","TrackballRadialPullFactor","TrackballRollFactor","VRSwitchKeyCode","WorldAxis","WorldSecondaryAxis"]
+}

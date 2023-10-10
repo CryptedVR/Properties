@@ -1,0 +1,4 @@
+{
+  "Inherit":["TriangeMeshPart","BasePart","PVInstance","Instance"],
+  "Properties":["RenderFidelity","SmoothingAngle","UsePartColor"]
+}
