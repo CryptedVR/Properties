@@ -1,0 +1,4 @@
+{
+  "Inherit":["Instance"],
+  "Properties":["BackgroundColor3","BackgroundTransparency","Enabled","FontFace","HeightScale","HorizontalAlignment","TextColor3","TextSize","TextStrokeColor3","TextStrokeTransparency","VerticalAlignment","WidthScale"]
+}
