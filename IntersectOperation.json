@@ -1,0 +1,4 @@
+{
+  "Inherit":["PartOperation","TriangleMeshPart","BasePart","PVInstance","Instance"],
+  "Properties":[]
+}
