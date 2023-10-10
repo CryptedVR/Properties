@@ -1,0 +1,4 @@
+{
+  "Inherit":["SlidingBallConstraint","Constraint","Instance"],
+  "Properties":["AngularActuatorType","AngularLimitsEnabled","AngularResponsiveness","AngularRestitution","AngularSpeed","AngularVelocity","InclinationAngle","LowerAngle","MotorMaxAngularAcceleration","MotorMaxTorque","RotationAxisVisible","ServoMaxTorque","TargetAngle","UpperAngle"]
+}
