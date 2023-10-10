@@ -1,0 +1,4 @@
+{
+  "Inherit":["PVInstance","Instance"],
+  "Properties":["Anchored","AssemblyAngularVelocity","AssemblyLinearVelocity","BackSurface","BottomSurface","BrickColor","CFrame","CanCollide","CanQuery","CanTouch","CastShadow","CollisionGroup","Color","CustomPhysicalProperties","EnableFluidForces","FrontSurface","LeftSurface","Locked","Massless","Material","MaterialVariant","PivotOffset","Reflectance","RightSurface","RootPriority","Size","TopSurface","Transparency"]
+}
