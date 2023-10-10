@@ -1,1 +1,4 @@
-
+{
+  "Inherit":["Instance"],
+  "Properties":["AccessoryType","AssetId","Instance","IsLayered","Order","Puffiness"]
+}
