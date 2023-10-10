@@ -1,0 +1,4 @@
+{
+  "Inherit":["Instance"],
+  "Properties":["CFrame","CameraSubject","CameraType","DiagonalFieldOfView","FieldOfView","FieldOfViewMode","Focus","HeadLocked","HeadScale","MaxAxisFieldOfView","VRTiltAndRollEnabled"]
+}
