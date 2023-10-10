@@ -1,4 +1,4 @@
 {
-  "Inherit" : ["Accoutrement", "Instance"],
-  "Properties" : ["AccessoryType"]
+  "Inherit":["Accoutrement", "Instance"],
+  "Properties":["AccessoryType"]
 }
