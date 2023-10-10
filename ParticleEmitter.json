@@ -1,0 +1,4 @@
+{
+  "Inherit":["Instance"],
+  "Properties":["Acceleration","Brightness","Color","Drag","EmissionDirection","Enabled","FlipbookFramerate","FlipbookIncompatible","FlipbookLayout","FlipbookMode","FlipbookStartRandom","Lifetime","LightEmission","LightInfluence","LockedToPart","Orientation","Rate","RotSpeed","Rotation","Shape","ShapeInOut","ShapePartial","ShapeStyle","Size","Speed","SpreadAngle","Squash","Texture","TimeScale","Transparency","VelocityInheritance","WindAffectsDrag","ZOffset"]
+}
