@@ -1,0 +1,4 @@
+{
+  "Inherit":["PluginGui","LayerCollector","GuiBase2d","Instance"],
+  "Properties":[]
+}
